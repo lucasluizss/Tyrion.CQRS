@@ -1,7 +1,7 @@
 ﻿## ⚔️ Tyrion.CQRS
 
 [![Build status](https://ci.appveyor.com/api/projects/status/y0fmfl6e55aeee08?svg=true)](https://ci.appveyor.com/project/lucasluizss/tyrion-cqrs)
-[![Build Status](https://dev.azure.com/lucasluizssdev/Tyrion.CQRS/_apis/build/status/lucasluizss.Tyrion.CQRS?branchName=master)](https://dev.azure.com/lucasluizssdev/Tyrion.CQRS/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/lucasluizssdev/Tyrion.CQRS/_apis/build/status/lucasluizss.Tyrion.CQRS?branchName=master)](https://dev.azure.com/lucasluizss/Tyrion.CQRS/_build/latest?definitionId=1&branchName=master)
 [![GitHub license](https://img.shields.io/github/license/lucasluizss/Tyrion.CQRS)](https://github.com/lucasluizss/Tyrion.CQRS)
 [![NuGet](https://img.shields.io/nuget/dt/tyrion.svg)](https://www.nuget.org/packages/tyrion)
 [![NuGet](https://img.shields.io/nuget/vpre/tyrion.svg)](https://www.nuget.org/packages/tyrion)
