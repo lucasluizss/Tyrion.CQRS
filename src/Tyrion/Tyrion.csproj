@@ -17,7 +17,7 @@
         <PackageIconUrl />
     </PropertyGroup>
     <ItemGroup>
-        <None Include="..\..\..\..\Users\lucas.santos\Pictures\Camera Roll\tyrion.jpg">
+        <None Include="..\..\.github\images\tyrion.jpg">
           <Pack>True</Pack>
           <PackagePath></PackagePath>
         </None>
